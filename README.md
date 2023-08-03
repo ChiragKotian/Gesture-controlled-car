@@ -1,4 +1,4 @@
-![20220819_223401](https://github.com/ChiragKotian/Gesture-controlled-car/assets/117931123/a0ee3a48-9d99-4977-b886-5078db799d49)![20220819_223401](https://github.com/ChiragKotian/Gesture-controlled-car/assets/117931123/81fbf1c0-0aa1-4dca-ab1f-a7965ee4871c)# Gesture controlled car
+# Gesture controlled car
 
 Won't it be fun to drive a rc car using your hand gesture? We tried to achive the same by using MPU6050 IMU connected to Arduino nano send conmands to Arduino nano 
 on the bot, which is controlling the bot, via wifi module. Everthing is powered via rechargable Li-Ion batteries.
