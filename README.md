@@ -1,6 +1,6 @@
 # Gesture controlled car
 
-Won't it be fun to drive an RC car using your hand gestures? We tried to achieve the same by using MPU6050 IMU connected to Arduino Nano to send commands to Arduino Nano on the bot, which is controlling the bot via the wifi module. Everything is powered via rechargeable Li-Ion batteries.
+Won't it be fun to drive an RC car using your hand gestures? We tried to achieve the same by using an IMU connected to Arduino Nano to send commands to Arduino Nano on the bot, which is controlling the bot via the wifi module. Everything is powered via rechargeable Li-Ion batteries.
 
 ## Components:
 
