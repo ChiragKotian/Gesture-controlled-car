@@ -12,4 +12,4 @@ Won't it be fun to drive an RC car using your hand gestures? We tried to achieve
 ![20220819_223401](https://github.com/ChiragKotian/Gesture-controlled-car/assets/117931123/4ff43ce8-07ee-45e6-8099-43c495fac181)
 
 ## Credits:
-_This car was originally made by Sumukh Porwal and then refurbished and improved upon by [me](https://chiragkotian.github.io), Aman and [Arpit](https://github.com/arpitguptagithub) for demonstration purposes in Basic Arduino Workshop conducted by us._
+_This car was originally made by [Sumukh Porwal](https://github.com/Sumukh18) and then refurbished and improved upon by [me](https://chiragkotian.github.io), [Aman](https://github.com/Amankumar8555) and [Arpit](https://github.com/arpitguptagithub) for demonstration purposes in Basic Arduino Workshop conducted by us._
